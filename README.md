@@ -1,3 +1,16 @@
+UPDATE ![CyberMondayCartGIF](https://user-images.githubusercontent.com/112667412/204385653-9124f424-3c48-4de8-bb7e-1a136c6d6ffb.gif)
+
+After referencing some sources and other repositories I was able to complete an Reverse ICMP Shell
+
+This was done loopback to localhost for more of a proof of concept but it works :)
+
+Here is a wireshark capture of the packets
+
+![image](https://user-images.githubusercontent.com/112667412/204385669-64d5caa5-0f7c-4f8e-8e46-11a39347f836.png)
+
+
+
+
 👀🧖‍♂️🟥
 
 For this project it is a C2 I made to learn more about cybersecurity!
@@ -38,4 +51,5 @@ This is the server callback info:
 
 ![image](https://user-images.githubusercontent.com/112667412/201791680-bd1b6caf-03fd-4fa5-ad4d-d900f62cb9a9.png)
 */
+
 
