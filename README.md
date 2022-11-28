@@ -3,6 +3,7 @@ UPDATE
 ![CyberMondayCartGIF](https://user-images.githubusercontent.com/112667412/204385653-9124f424-3c48-4de8-bb7e-1a136c6d6ffb.gif)
 
 After referencing some sources and other repositories I was able to complete an Reverse ICMP Shell
+Sources: icmpdoor https://github.com/retr0-13/icmpdoor and icmpC2 https://github.com/infernexio/icmpC2
 
 This was done loopback to localhost for more of a proof of concept but it works :)
 
